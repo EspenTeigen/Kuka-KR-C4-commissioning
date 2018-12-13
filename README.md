@@ -3,3 +3,4 @@ Commissioning of Kuka KR C4-Controller with Beckhoff PLC and FSoE. The project a
 
 This documentation is written and shared on behalf of Østfold University College, Faculty of information technology. The school are not liable for any damage made to equipment and/or injuries to persons or animals when information from this page is used. 
 
+Important: For this to work, you must have the EL6695-1001 Kuka version of the Beckhoff Ethercat bridge integrated into the controller. 
