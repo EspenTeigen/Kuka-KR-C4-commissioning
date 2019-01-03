@@ -15,3 +15,22 @@ File descriptions:
                   System Design is a diagram that shows the connection between the physical hardware of the robot controller, PLC, PC and IO
                   
                   
+List of hardware: 
+                  
+                  PLC-side
+                  Beckhoff CX9020 embedded PC
+                  Beckhoff EL6900 Safety logic
+                  Beckhoff El1904 Safe inputs
+                  Beckhoff EL2904 safe outputs
+                  Beckhoff EL6022 RS485 bridge
+                  Beckhoff EK1110 Ethercat coupler
+                  Omron    F3SG safety curtain
+                  Eaton    Emergency stop
+                  Baco     Monostable push switch
+                  Robotiq  FT300 force torque sensor 
+                  
+                  KRC4-side
+                  Beckhoff EK1100 Ethercat coupler
+                  Beckhoff El1809 Inputs
+                  Beckhoff EL2809 Outputs
+                  
