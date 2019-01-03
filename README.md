@@ -12,4 +12,6 @@ File descriptions:
                   
                   RobotlabConfigKuka.wvs is the config file that is used to configure the robot with IO and FSoE. 
                   
+                  System Design is a diagram that shows the connection between the physical hardware of the robot controller, PLC, PC and IO
+                  
                   
