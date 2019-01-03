@@ -18,19 +18,21 @@ File descriptions:
 List of hardware: 
                   
                   PLC-side
-                  Beckhoff CX9020 embedded PC
-                  Beckhoff EL6900 Safety logic
-                  Beckhoff El1904 Safe inputs
-                  Beckhoff EL2904 safe outputs
-                  Beckhoff EL6022 RS485 bridge
-                  Beckhoff EK1110 Ethercat coupler
-                  Omron    F3SG safety curtain
-                  Eaton    Emergency stop
-                  Baco     Monostable push switch
-                  Robotiq  FT300 force torque sensor 
+                  Beckhoff    CX9020 embedded PC
+                  Beckhoff    EL6900 Safety logic
+                  Beckhoff    El1904 Safe inputs
+                  Beckhoff    EL2904 safe outputs
+                  Beckhoff    EL6022 RS485 bridge
+                  Beckhoff    EK1110 Ethercat coupler
+                  Omron       F3SG safety curtain
+                  Eaton       Emergency stop
+                  Baco        Monostable push switch
+                  Robotiq     FT300 force torque sensor 
+                  Weidmuller  PROEco 240W/24V power supply
                   
                   KRC4-side
-                  Beckhoff EK1100 Ethercat coupler
-                  Beckhoff El1809 Inputs
-                  Beckhoff EL2809 Outputs
+                  Beckhoff    EK1100 Ethercat coupler
+                  Beckhoff    El1809 Inputs
+                  Beckhoff    EL2809 Outputs
+                  Weidmuller  CP SNT 48W/24V power supply
                   
