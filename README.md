@@ -9,4 +9,6 @@ Important: For this to work, you must have the EL6695-1001 Kuka version of the B
 File descriptions:
                   Kuka_robot_project_twinsafe_modbus.sln is the TwinCAT/TwinSAFE project file. It also contains a small PLC-program that                     communicates with a robotiq FT300 sensor over Modbus RTU. 
                   
+                  RobotlabConfigKuka.wvs is the config file that is used to configure the robot with IO and FSoE. 
+                  
                   
