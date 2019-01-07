@@ -30,9 +30,16 @@ List of hardware:
                   Robotiq     FT300 force torque sensor 
                   Weidmuller  PROEco 240W/24V power supply
                   
-                  KRC4-side
+                  Robot side-side
+                  Kuka        KR C4 compact controller
+                  Kuka        KR 3 R540 manipulator
                   Beckhoff    EK1100 Ethercat coupler
                   Beckhoff    El1809 Inputs
                   Beckhoff    EL2809 Outputs
                   Weidmuller  CP SNT 48W/24V power supply
                   
+List of software:
+              
+                  Visual studio with TwinCAT installed
+                  Work Visual from Kuka
+          
