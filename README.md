@@ -5,6 +5,13 @@ This documentation is written and shared on behalf of Østfold University Colleg
 
 Important: For this to work, you must have the EL6695-1001 Kuka version of the Beckhoff Ethercat bridge integrated into the KRC 4. 
 
+To open TwinCAT-project: 
+                        Open TwinCAT
+                        File->Open->Project/solution
+                        Select "Kuka_robot_project_twinsafe_modbus" that are in the TwinCAT project folder
+                      
+                        
+                        
 
 File descriptions:
 
